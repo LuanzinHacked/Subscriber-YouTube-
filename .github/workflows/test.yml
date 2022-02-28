@@ -1,0 +1,6 @@
+<tp-yt-paper-button id="button" class="style-scope ytd-button-renderer style-destructive size-default" role="button" tabindex="0" animated="" elevation="0" aria-disabled="false" aria-label="Inscrever-se"><!--css-build:shady--><yt-formatted-string id="text" class="style-scope ytd-button-renderer style-destructive size-default">Inscrever-se</yt-formatted-string><paper-ripple class="style-scope tp-yt-paper-button"><!--css-build:shady-->
+    
+
+    <div id="background" class="style-scope paper-ripple" style="opacity: 0.0012;"></div>
+    <div id="waves" class="style-scope paper-ripple"></div>
+</paper-ripple></tp-yt-paper-button>
